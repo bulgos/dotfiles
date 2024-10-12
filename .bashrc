@@ -146,3 +146,5 @@ n ()
 		rm -f -- "$NNN_TMPFILE" > /dev/null
 	}
 }
+
+export VISUAL=ewrap
